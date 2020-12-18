@@ -13,7 +13,7 @@ repository: adamzou/adamzou.github.io
 
 # Email and twitter are optional:
 email: yz725@cornell.edu
-twitter_username: @AdamZou1
+twitter_username: AdamZou1
 
 # Set this to true to get LaTeX math equation support
 use_math: true
