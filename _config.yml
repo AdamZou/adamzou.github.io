@@ -11,6 +11,11 @@ description: Academic and Entrepreneur
 github_username: adamzou
 repository: adamzou/adamzou.github.io
 
+
+author:
+  name: Yayi Zou
+  email: yz725@cornell.edu
+  
 # Email and twitter are optional:
 email: yz725@cornell.edu
 twitter_username: AdamZou1
