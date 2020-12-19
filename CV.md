@@ -99,9 +99,10 @@ PhD student
 
 <span>*Optimization and Algorithm*</span>: Analysis of Algorithm, Mathematical Programming, Network flow and Graph Theory, Convex Analysis, Online Marketplace Design and Game Theory
 
+
 <span>**Peking University**</span>
 
-<span>*School of EECS *</span>
+<span>*School of EECS*</span>
 
 Bachelor of Science
 
