@@ -114,7 +114,10 @@ Bachelor of Science
 
 -   Yayi Zou, Qingyang Li, Zhiwei Qin, <span>*SYSTEM AND METHOD FOR CUSTOMER ACQUISITION AND RETENTION BASED ON OFFLINE REINFORCEMENT LEARNING*</span>, filed in 2020
 
-<span>Teach Experience</span> <span>**Teaching Assistant**</span>
+
+## Teach Experience
+
+<span>**Teaching Assistant**</span>
 
 -   ORIE5650 Quantitative Method in Risk Management
 
