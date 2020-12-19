@@ -37,16 +37,6 @@ Yayi Zou, Craig Fennie
 <span>**Computation of ferroelectric tunnel junctions**</span>
 Zou Ya-Yi, Chew Khian-Hooi, Zhou Yan , <span>*Dynamic Control of Tunneling Conductance in Ferroelectric Tunnel Junctions*</span>, (Published on Chinese Physics Letters 2013) <https://iopscience.iop.org/article/10.1088/0256-307X/30/10/107701/meta>
 
-<span>Publications</span>
-
--   Yayi Zou, Xiaoqi Lu, <span>*Gradient-EM Bayesian Meta-learning*</span>, (**Accepted to NeurIPS 2020 Proceedings**) <https://arxiv.org/abs/2006.11764>
-
--   Yayi Zou, Tony Qin, <span>*Value-based Bayesian Meta-reinforcement Learning and Traffic Signal Control*</span>, (Submitted to AAAI 2021)
-
--   Yayi Zou, Huseyin Topaloglu, <span>*Two-stage Discrete Choice Model*</span> , (to be submitted to MANAGEMENT SCIENCE)
-
--   Zou. Ya-Yi, Y. Zhou, K.-H. Chew, <span>*Dynamics Control of Tunneling Conductance in Ferroelectric Tunnel Junctions*</span>, Chinese Physics Letters, 2013
-
 
 
 ## INDUSTRIAL EXPERIENCE
