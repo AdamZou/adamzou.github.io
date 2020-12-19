@@ -86,18 +86,23 @@ Zou Ya-Yi, Chew Khian-Hooi, Zhou Yan , <span>*Dynamic Control of Tunneling Condu
 ## Education
 
 <span>**Cornell University**</span>
+
 <span>*School of Operations Research and Informational Engineering*</span>
-PhD student graduated with Master of Science
-<span>*Department of Applied Physics*</span>
-PhD Candidate
+
+PhD student
 
 <span>**PhD Level Course Work:**</span>
+
 <span>*Machine Learning*</span>: Reinforcement Learning, Bayesian Learning, Deep Learning
+
 <span>*Probability and Statistics*</span>: Advanced Probability Theory, Applied Stochastic Process, Statistical Principle, Simulation
+
 <span>*Optimization and Algorithm*</span>: Analysis of Algorithm, Mathematical Programming, Network flow and Graph Theory, Convex Analysis, Online Marketplace Design and Game Theory
 
 <span>**Peking University**</span>
+
 <span>*School of EECS *</span>
+
 Bachelor of Science
 
 ## Patents
@@ -120,6 +125,7 @@ Bachelor of Science
 ## Olympiad Awards
 
 Gold Medal Prize China Mathematics Olympiad 2008
+
 Gold Medal Prize China Physics Olympiad 2007
 
 ## Coding Skill
