@@ -1,5 +1,23 @@
 # CV
 
+## Education
+
+<span>**Cornell University**</span>
+
+<span>*School of Operations Research and Informational Engineering*</span>
+
+PhD student
+
+Reinforcement Learning, Bayesian Learning, Deep Learning, Probability and Statistics, Optimization and Algorithm
+
+
+<span>**Peking University**</span>
+
+<span>*School of EECS*</span>
+
+Bachelor of Science
+
+
 ## Research Experience
 
 <span>**Gradient-EM Bayesian Meta-learning**</span>
@@ -72,29 +90,6 @@ Zou Ya-Yi, Chew Khian-Hooi, Zhou Yan , <span>*Dynamic Control of Tunneling Condu
 -   <span>Semi-supervised Learning based Customer Profiling Inference System</span>
 
 
-
-## Education
-
-<span>**Cornell University**</span>
-
-<span>*School of Operations Research and Informational Engineering*</span>
-
-PhD student
-
-<span>**PhD Level Course Work:**</span>
-
-<span>*Machine Learning*</span>: Reinforcement Learning, Bayesian Learning, Deep Learning
-
-<span>*Probability and Statistics*</span>: Advanced Probability Theory, Applied Stochastic Process, Statistical Principle, Simulation
-
-<span>*Optimization and Algorithm*</span>: Analysis of Algorithm, Mathematical Programming, Network flow and Graph Theory, Convex Analysis, Online Marketplace Design and Game Theory
-
-
-<span>**Peking University**</span>
-
-<span>*School of EECS*</span>
-
-Bachelor of Science
 
 ## Patents
 
