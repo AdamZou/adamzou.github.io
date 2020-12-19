@@ -1,6 +1,8 @@
 # CV
 
-<span>Research Experience</span> <span>**Gradient-EM Bayesian Meta-learning**</span>
+## Research Experience
+
+<span>**Gradient-EM Bayesian Meta-learning**</span>
 Yayi Zou, Xiaoqi Lu, <span>*Gradient-EM Bayesian Meta-learning*</span>, (**Accepted to NeurIPS 2020**) <https://proceedings.neurips.cc//paper_files/paper/2020/hash/ef48e3ef07e359006f7869b04fa07f5e-Abstract.html>
 
 -   Propose a general Bayesian Framework and proves its optimality under certain metrics.
@@ -45,7 +47,11 @@ Zou Ya-Yi, Chew Khian-Hooi, Zhou Yan , <span>*Dynamic Control of Tunneling Condu
 
 -   Zou. Ya-Yi, Y. Zhou, K.-H. Chew, <span>*Dynamics Control of Tunneling Conductance in Ferroelectric Tunnel Junctions*</span>, Chinese Physics Letters, 2013
 
-<span>INDUSTRIAL EXPERIENCE</span> <span>**Didichuxing AI Lab @Silicon Valley, Research Scientist**</span>
+
+
+## INDUSTRIAL EXPERIENCE
+
+<span>**Didichuxing AI Lab @Silicon Valley, Research Scientist**</span>
 
 -   **Offline Reinforcement Learning based User Growth System under Budget Constraint**
 
@@ -75,7 +81,9 @@ Zou Ya-Yi, Chew Khian-Hooi, Zhou Yan , <span>*Dynamic Control of Tunneling Condu
 
 -   <span>Semi-supervised Learning based Customer Profiling Inference System</span>
 
-<span>Education</span>
+
+
+## Education
 
 <span>**Cornell University**</span>
 <span>*School of Operations Research and Informational Engineering*</span>
@@ -92,7 +100,7 @@ PhD Candidate
 <span>*School of EECS *</span>
 Bachelor of Science
 
-<span>Patents</span>
+## Patents
 
 -   Yayi Zou, <span>*SYSTEM AND METHOD FOR CUSTOMIZING INFORMATION FEED*</span>, <https://patents.google.com/patent/US20200175415A1/en?inventor=yayi+zou&oq=yayi+zou>, pending
 
@@ -108,8 +116,12 @@ Bachelor of Science
 
 -   AEP3560   Intermediate Electrodynamics
 
-<span>Olympiad Awards</span> Gold Medal Prize China Mathematics Olympiad 2008
+
+## Olympiad Awards
+
+Gold Medal Prize China Mathematics Olympiad 2008
 Gold Medal Prize China Physics Olympiad 2007
 
-<span>Coding Skill and Proficiency</span> Python (Tensorflow, PyTorch); SQL, Spark, Hive, Hadoop; C++
+## Coding Skill
+Python (Tensorflow, PyTorch); SQL, Spark, Hive, Hadoop; C++
 
