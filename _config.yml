@@ -27,8 +27,7 @@ use_math: true
 google_analytics:
 
 header_pages:
-  - bout.md
-  - research.md
+  - CV.md
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
